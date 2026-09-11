@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://propel-bd.com
+Sitemap: https://propel-bd.com/sitemap.xml
